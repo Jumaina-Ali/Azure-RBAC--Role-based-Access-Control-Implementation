@@ -8,11 +8,14 @@
 ## Storage Account: stabcproduction01  
 ## Blob Container: rbac-test
 # RBAC Roles Implemented - 
-## ROLE                              SCOPE                                    PURPOSE 
-## Owner                             Subscription                             Full access  
-## Contributor                       Resource Group                           Manage Azure Resources 
-## Reader                            Storage Account                          View Resources 
-## Storage blob data                Storage Account                           Read , write and delete blob     Contributor                                                                  data
+## Owner-
+## Assigned at the Subscription scope to provide full access to Azure resources. 
+## Contributor - 
+## Assigned at the Resource Group scope to manage Azure resources.
+## Reader - 
+## Assigned at the Storage Account scope to provide read-only access. This test assignment was later removed to demonstrate access revocation.
+## Storage Blob Data Contributor - 
+## Assigned at the Storage Account scope to allow reading, writing, and deleting Blob data.
 # RBAC Scope Hierarchy - 
 ## Subscription  
 ##       └── RG-ABC-Production 
