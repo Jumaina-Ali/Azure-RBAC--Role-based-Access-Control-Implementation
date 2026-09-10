@@ -12,7 +12,9 @@
 # KEY CONCEPTS LEARNED -                                                                                   ## Azure RBAC                                                                                            ## Role assignments                                                                                        ## Management-plane vs data-plane access                                                                   ## RBAC scopes                                                                                             ## Scope inheritance                                                                                       ## Least-privilege access                                                                                  ## Access verification                                                                                     ## Access removal 
 # SCREENSHOTS - 
 ## Resource group - <img width="1351" height="620" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/3072f044-7e29-4478-b63c-dab3351b270c" />
-## Storage Account - 
+## Storage Account - <img width="1356" height="623" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/b3aa466e-2cc1-4895-86ff-e03000034e43" />
+## IAM Role Assignments - 
+
 
 
 
