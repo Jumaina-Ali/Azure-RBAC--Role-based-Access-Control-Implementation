@@ -13,7 +13,9 @@
 # SCREENSHOTS - 
 ## Resource group - <img width="1351" height="620" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/3072f044-7e29-4478-b63c-dab3351b270c" />
 ## Storage Account - <img width="1356" height="623" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/b3aa466e-2cc1-4895-86ff-e03000034e43" />
-## IAM Role Assignments - 
+## IAM Role Assignments - <img width="1350" height="621" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/6d367beb-8a05-4306-8631-161629f675ab" /> 
+## Check Access - 
+
 
 
 
